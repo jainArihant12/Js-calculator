@@ -12,6 +12,9 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
 ## Screenshot
 <img src="screenshot.png" alt="Calculator Preview" width="300">
 
+## Live Demo
+You can view the live demo of the calculator here: [Live Calculator](https://jainarihant12.github.io/Js-calculator/)
+
 
 ## Technologies Used
 - **HTML** for structure
@@ -35,8 +38,7 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
 - Press `=` to see the result.
 - Click `C` to clear the input.
 
-## Live Demo
-You can view the live demo of the calculator here:
+
 
 ### Deploy on GitHub Pages:
 1. Push your project to a GitHub repository.
@@ -46,7 +48,6 @@ You can view the live demo of the calculator here:
 5. GitHub will generate a live link (e.g., `https://your-username.github.io/calculator/`).
 6. Replace the placeholder link above with the actual link.
 
-[Live Calculator](https://your-username.github.io/calculator/)
 
 ## Contributing
 1. Fork the repository.
