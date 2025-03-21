@@ -10,7 +10,8 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript.
 - Clears input with a reset button.
 
 ## Screenshot
-![Calculator Preview](screenshot.png)
+<img src="screenshot.png" alt="Calculator Preview" width="300">
+
 
 ## Technologies Used
 - **HTML** for structure
